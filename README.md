@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rXHDizC8)
 # 🎵 实验名称：音乐生成（Music Generation with RNNs）
 
 本实验源自 **MIT Deep Learning Lab 1**，旨在通过循环神经网络（RNN / LSTM）学习音乐片段的时序特征，自动生成旋律序列。
